@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<List>
+	<Game>
+		<Realm>Avengers - The end game</Realm>
+		<Enemy>
+			<Name>Thanos</Name>
+			<desc>Born on Saturn's moon Titan, Thanos has always been a space-based foe of Earth's superheroes</desc>
+			<greeting>I am the king.</greeting>
+			<maxHp>300</maxHp>
+			<damage>13</damage>
+			<damageVariation>5</damageVariation>
+		</Enemy>
+		<Enemy>
+			<Name>Loki</Name>
+			<desc>A cunning trickster who had the ability to change his shape and sex</desc>
+			<greeting>You made a mistake to choose fight with me</greeting>
+			<maxHp>90</maxHp>
+			<damage>7</damage>
+			<damageVariation>3</damageVariation>
+		</Enemy>
+		<Enemy>
+			<Name>Doctor doom</Name>
+			<desc>Ruler of Latveria, nemesis of the Fantastic Four and threat to the entire Universe</desc>
+			<greeting>I will crush you.</greeting>
+			<maxHp>200</maxHp>
+			<damage>13</damage>
+			<damageVariation>0</damageVariation>
+		</Enemy>
+		<Enemy>
+			<Name>Baron Zemo</Name>
+			<desc>Masters of evil</desc>
+			<greeting>Don't dare to clash with me</greeting>
+			<maxHp>150</maxHp>
+			<damage>6</damage>
+			<damageVariation>5</damageVariation>
+		</Enemy>
+		<Enemy>
+			<Name>Skrull</Name>
+			<desc>Masters of evil</desc>
+			<greeting>I will crush you like an insect.</greeting>
+			<maxHp>30</maxHp>
+			<damage>3</damage>
+			<damageVariation>0</damageVariation>
+		</Enemy>
+		<Enemy>
+			<Name>Ultron</Name>
+			<desc>Masters of evil</desc>
+			<greeting>Don't dare to clash with us</greeting>
+			<maxHp>250</maxHp>
+			<damage>15</damage>
+			<damageVariation>2</damageVariation>
+		</Enemy>
+		<Enemy>
+			<Name>Count Nefaria</Name>
+			<desc>Masters of evil</desc>
+			<greeting>Don't dare to clash with us</greeting>
+			<maxHp>60</maxHp>
+			<damage>7</damage>
+			<damageVariation>2</damageVariation>
+		</Enemy>
+	</Game>
+	
+	<!-- we can add multiple Realm Arenas here , just by modifying this xml -->
+	
+	<Game>
+		<Realm>Lord of rings</Realm>
+		<Enemy>
+			<Name>Thanos</Name>
+			<desc>Born on Saturn's moon Titan, Thanos has always been a space-based foe of Earth's superheroes</desc>
+			<greeting>I am the king.</greeting>
+			<maxHp>300</maxHp>
+			<damage>13</damage>
+			<damageVariation>5</damageVariation>
+		</Enemy>
+		<Enemy>
+			<Name>Loki</Name>
+			<desc>A cunning trickster who had the ability to change his shape and sex</desc>
+			<greeting>You made a mistake to choose fight with me</greeting>
+			<maxHp>90</maxHp>
+			<damage>7</damage>
+			<damageVariation>3</damageVariation>
+		</Enemy>
+		<Enemy>
+			<Name>Doctor doom</Name>
+			<desc>Ruler of Latveria, nemesis of the Fantastic Four and threat to the entire Universe</desc>
+			<greeting>I will crush you.</greeting>
+			<maxHp>200</maxHp>
+			<damage>13</damage>
+			<damageVariation>0</damageVariation>
+		</Enemy>
+		<Enemy>
+			<Name>Baron Zemo</Name>
+			<desc>Masters of evil</desc>
+			<greeting>Don't dare to clash with me</greeting>
+			<maxHp>150</maxHp>
+			<damage>6</damage>
+			<damageVariation>5</damageVariation>
+		</Enemy>
+		<Enemy>
+			<Name>Skrull</Name>
+			<desc>Masters of evil</desc>
+			<greeting>I will crush you like an insect.</greeting>
+			<maxHp>30</maxHp>
+			<damage>3</damage>
+			<damageVariation>0</damageVariation>
+		</Enemy>
+		<Enemy>
+			<Name>Ultron</Name>
+			<desc>Masters of evil</desc>
+			<greeting>Don't dare to clash with us</greeting>
+			<maxHp>250</maxHp>
+			<damage>15</damage>
+			<damageVariation>2</damageVariation>
+		</Enemy>
+		<Enemy>
+			<Name>Count Nefaria</Name>
+			<desc>Masters of evil</desc>
+			<greeting>Don't dare to clash with us</greeting>
+			<maxHp>60</maxHp>
+			<damage>7</damage>
+			<damageVariation>2</damageVariation>
+		</Enemy>
+	</Game>
+</List>
